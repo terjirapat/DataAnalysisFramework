@@ -206,3 +206,11 @@ Think in hypotheses — treat every pattern as something to prove/disprove.
 
 Automate the grunt work — save energy for insight.
 
+
+🧩 How Top 1% Analysts Do It
+✔️ They don’t blindly run 100 plots — they start with hypotheses.
+✔️ They narrate as they go: “I expected A, but found B, so next I’ll check C.”
+✔️ They flag anything odd before presenting insights.
+✔️ They save visualizations in a reproducible notebook.
+✔️ They highlight why each finding matters: “What does this mean for the business?”
+
